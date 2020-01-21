@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"jp.ac.uryukyu.ie.e195757","l":"Gamemaster"},{"p":"jp.ac.uryukyu.ie.e195757","l":"Main"},{"p":"jp.ac.uryukyu.ie.e195757","l":"Revers"},{"l":"すべてのクラス","url":"allclasses-index.html"}]
